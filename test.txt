@@ -1,3 +1,1 @@
 "This is a test file for studying how to use git"
-
-"This line should be added when I finished my 2nd commit"

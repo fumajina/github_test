@@ -1,3 +1,0 @@
-"This file is created for studying how can I use merge and branch command"
-
-

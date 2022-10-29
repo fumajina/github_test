@@ -1,1 +1,0 @@
-"This file is created because test1 branch had no difference with develop branch."
